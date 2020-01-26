@@ -24,3 +24,19 @@ Interaction system (Interactable interface and implementation)
 A bit in Weapon base which was a mutual file
 A bit in UE4GameCharacter which was a mutual file
 }
+
+Martin:
+{
+A bit in Weapon base which was a mutual file
+A bit in UE4GameCharacter which was a mutual file
+BulletType
+AmmoComponent
+WeaponMode
+BulletComponent
+BurstFireComponent
+Recoil Component
+SingleFireTriggerComponent
+WeaponBarrelComponent
+WeaponTriggerComponent
+
+}
