@@ -2,6 +2,10 @@ Link to guide for usage of systems:
 https://docs.google.com/document/d/1caZA8NS6NwLGzz8L_q36t5CJr-LSGqGqB4mEPbcoFf4/edit?usp=sharing
 
 
+Previous repositories used:
+Github: https://github.com/MartinCarlsson112/FG19GP_CPP_BASIC_UNREAL (Abandoned due to issues with Git LFS)
+Bitbucket: https://bitbucket.org/MartinCarlsson11/ue4_firearmsystem/commits/
+
 Scripts worked on:
 
 Max:
